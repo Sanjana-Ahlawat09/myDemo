@@ -1,4 +1,4 @@
 # myDemo
 my first git repositiory
 <br>
-Author-Sanjana ahlawat
+Author-Sanjana ahlawat(first project)
